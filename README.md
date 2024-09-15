@@ -1,13 +1,13 @@
-🎨 Photoshop Image Transformer: The Infinite Canvas
+#🎨 Photoshop Image Transformer: The Infinite Canvas
 Welcome to the Photoshop Image Transformer, a magical tool designed to make your creative journey smoother and more efficient. Transform your designs effortlessly by automating the process of importing and replacing images in your Photoshop projects.
 
-✨ Features
+#✨Features
 Folder of Dreams: Select a folder full of your artistic masterpieces, and let the script do the heavy lifting.
 Layer Alchemy: Seamlessly replace the REPLACE_IMG_HERE layer with a new image, ensuring your canvas is always updated with the latest vision.
 Canvas Symphony: Fit your new image perfectly to the canvas, preserving the harmony of proportions and centering it like a maestro.
 Progress Chronicles: Keep track of where you left off, so you can continue your creative process without missing a beat.
 Smart Object Enchantment: Convert your new layer into a Smart Object with a touch of Photoshop magic, thanks to a pre-existing action.
-🌟 How It Works
+#🌟How It Works
 Awaken the Script: Run the script through File > Scripts and choose your freshly crafted tool.
 Folder Selection Ritual: If it's your first time, the script will guide you to choose the folder of images destined for your project.
 Image Transformation: Watch as the script performs its alchemy, replacing the REPLACE_IMG_HERE layer with your chosen image.
